@@ -1,6 +1,6 @@
-# UserStatiscit application example
+# UserStatistic application example
 
-Сборка
+Config/Run
 ```
 chmod +x frontSetup.sh
 chmod +x backSetup.sh
