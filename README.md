@@ -1,5 +1,4 @@
-# bitlabmedia
-Условие - Тестовое задание React.pdf
+# UserStatiscit application example
 
 Сборка
 ```
